@@ -94,7 +94,7 @@
 
 # 🤝 Connect With Me
 
-- GitHub: https://github.com/Amin365
+- AMinbashir07@gmail.com
 
 ---
 
