@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Mohamed+Bashir;Software+Engineering+Student;MERN+Stack+Developer;Next.js+%7C+CI%2FCD+Enthusiast;Building+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Mohamed+Bashir;Software+Engineering+Student;MERN+Stack+Developer; Building+Scalable+Web+Apps" />
 </p>
 
 <h1 align="center">Mohamed Bashir</h1>
-<h3 align="center">MERN Stack Developer | Next.js | CI/CD | Software Engineering Student</h3>
+<h3 align="center">MERN Stack Developer | Software Engineering Student</h3>
 
 <p align="center">
   Passionate about building real-world, scalable web applications and continuously improving my skills in modern JavaScript, backend architecture, and deployment workflows.
@@ -80,10 +80,17 @@
 
 
 
+
+
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Amin365/Amin365/blob/main/github-contribution-grid-snake.svg)
 ---
+
+
+
+
 
 # 🤝 Connect With Me
 
